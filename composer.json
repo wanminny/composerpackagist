@@ -1,0 +1,14 @@
+{
+    "name": "packagist/demo",
+    "description": "one packagist demo",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "wanmin",
+            "email": "min.wan@yoho.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
