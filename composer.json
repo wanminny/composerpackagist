@@ -9,6 +9,6 @@
             "email": "min.wan@yoho.cn"
         }
     ],
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "require": {}
 }
